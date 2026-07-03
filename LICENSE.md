@@ -1,4 +1,4 @@
-# 
+# VIP Android Studio workflow for Mac OS | Official Android Studio workflow for PC Windows. Featuring submodule-support and one-click-undo — optimized for maximum performance on every platform.
 
 
 
